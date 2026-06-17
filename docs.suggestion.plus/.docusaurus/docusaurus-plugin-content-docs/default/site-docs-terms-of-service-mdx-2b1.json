@@ -1,0 +1,24 @@
+{
+  "id": "terms-of-service",
+  "title": "Terms of Service",
+  "description": "Terms and conditions for using Suggestion Plus.",
+  "source": "@site/docs/terms-of-service.mdx",
+  "sourceDirName": ".",
+  "slug": "/terms-of-service",
+  "permalink": "/docs.suggestion.plus/terms-of-service",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/letsdosimple/docs.suggestion.plus/tree/main/docs/terms-of-service.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "terms-of-service",
+    "title": "Terms of Service",
+    "description": "Terms and conditions for using Suggestion Plus."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Privacy Policy",
+    "permalink": "/docs.suggestion.plus/privacy-policy"
+  }
+}

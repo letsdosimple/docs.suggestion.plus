@@ -1,0 +1,28 @@
+{
+  "id": "getting-started",
+  "title": "Getting Started with Suggestion Plus",
+  "description": "Welcome to Suggestion Plus documentation! This guide will help you understand how to use Suggestion Plus for your team, classroom, or community.",
+  "source": "@site/docs/getting-started.mdx",
+  "sourceDirName": ".",
+  "slug": "/getting-started",
+  "permalink": "/docs.suggestion.plus/getting-started",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/letsdosimple/docs.suggestion.plus/tree/main/docs/getting-started.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "getting-started",
+    "title": "Getting Started with Suggestion Plus",
+    "description": "Welcome to Suggestion Plus documentation! This guide will help you understand how to use Suggestion Plus for your team, classroom, or community."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Suggestion Plus Docs",
+    "permalink": "/docs.suggestion.plus/"
+  },
+  "next": {
+    "title": "Suggestion Plus Website Analysis",
+    "permalink": "/docs.suggestion.plus/suggestion-plus-website-analysis"
+  }
+}

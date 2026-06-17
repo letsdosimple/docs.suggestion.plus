@@ -1,0 +1,28 @@
+{
+  "id": "changelog",
+  "title": "Changelog",
+  "description": "Release notes and version history for Suggestion Plus.",
+  "source": "@site/docs/changelog.mdx",
+  "sourceDirName": ".",
+  "slug": "/changelog",
+  "permalink": "/docs.suggestion.plus/changelog",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/letsdosimple/docs.suggestion.plus/tree/main/docs/changelog.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "changelog",
+    "title": "Changelog",
+    "description": "Release notes and version history for Suggestion Plus."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "API Reference",
+    "permalink": "/docs.suggestion.plus/api-reference"
+  },
+  "next": {
+    "title": "Privacy Policy",
+    "permalink": "/docs.suggestion.plus/privacy-policy"
+  }
+}

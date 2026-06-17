@@ -1,0 +1,28 @@
+{
+  "id": "premium-features",
+  "title": "Premium Features",
+  "description": "Unlock advanced features with Suggestion Plus Premium.",
+  "source": "@site/docs/premium-features.mdx",
+  "sourceDirName": ".",
+  "slug": "/premium-features",
+  "permalink": "/docs.suggestion.plus/premium-features",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/letsdosimple/docs.suggestion.plus/tree/main/docs/premium-features.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "premium-features",
+    "title": "Premium Features",
+    "description": "Unlock advanced features with Suggestion Plus Premium."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Suggestion Plus Website Analysis",
+    "permalink": "/docs.suggestion.plus/suggestion-plus-website-analysis"
+  },
+  "next": {
+    "title": "Frequently Asked Questions",
+    "permalink": "/docs.suggestion.plus/faq"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "privacy-policy",
+  "title": "Privacy Policy",
+  "description": "How Suggestion Plus handles your data and privacy.",
+  "source": "@site/docs/privacy-policy.mdx",
+  "sourceDirName": ".",
+  "slug": "/privacy-policy",
+  "permalink": "/docs.suggestion.plus/privacy-policy",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/letsdosimple/docs.suggestion.plus/tree/main/docs/privacy-policy.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "privacy-policy",
+    "title": "Privacy Policy",
+    "description": "How Suggestion Plus handles your data and privacy."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Changelog",
+    "permalink": "/docs.suggestion.plus/changelog"
+  },
+  "next": {
+    "title": "Terms of Service",
+    "permalink": "/docs.suggestion.plus/terms-of-service"
+  }
+}

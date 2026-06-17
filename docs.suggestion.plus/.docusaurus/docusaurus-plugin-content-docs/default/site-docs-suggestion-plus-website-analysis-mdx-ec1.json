@@ -1,0 +1,28 @@
+{
+  "id": "suggestion-plus-website-analysis",
+  "title": "Suggestion Plus Website Analysis",
+  "description": "A comprehensive analysis of the Suggestion Plus website, covering features, UX, and technical aspects.",
+  "source": "@site/docs/suggestion-plus-website-analysis.mdx",
+  "sourceDirName": ".",
+  "slug": "/suggestion-plus-website-analysis",
+  "permalink": "/docs.suggestion.plus/suggestion-plus-website-analysis",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/letsdosimple/docs.suggestion.plus/tree/main/docs/suggestion-plus-website-analysis.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "suggestion-plus-website-analysis",
+    "title": "Suggestion Plus Website Analysis",
+    "description": "A comprehensive analysis of the Suggestion Plus website, covering features, UX, and technical aspects."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Getting Started with Suggestion Plus",
+    "permalink": "/docs.suggestion.plus/getting-started"
+  },
+  "next": {
+    "title": "Premium Features",
+    "permalink": "/docs.suggestion.plus/premium-features"
+  }
+}

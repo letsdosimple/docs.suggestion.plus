@@ -1,0 +1,28 @@
+{
+  "id": "faq",
+  "title": "Frequently Asked Questions",
+  "description": "Common questions about Suggestion Plus.",
+  "source": "@site/docs/faq.mdx",
+  "sourceDirName": ".",
+  "slug": "/faq",
+  "permalink": "/docs.suggestion.plus/faq",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/letsdosimple/docs.suggestion.plus/tree/main/docs/faq.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "faq",
+    "title": "Frequently Asked Questions",
+    "description": "Common questions about Suggestion Plus."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Premium Features",
+    "permalink": "/docs.suggestion.plus/premium-features"
+  },
+  "next": {
+    "title": "API Reference",
+    "permalink": "/docs.suggestion.plus/api-reference"
+  }
+}
