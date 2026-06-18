@@ -5,7 +5,7 @@
   "source": "@site/docs/index.mdx",
   "sourceDirName": ".",
   "slug": "/",
-  "permalink": "/docs.suggestion.plus/",
+  "permalink": "/",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/letsdosimple/docs.suggestion.plus/tree/main/docs/index.mdx",
@@ -20,6 +20,6 @@
   "sidebar": "tutorialSidebar",
   "next": {
     "title": "Getting Started with Suggestion Plus",
-    "permalink": "/docs.suggestion.plus/getting-started"
+    "permalink": "/getting-started"
   }
 }

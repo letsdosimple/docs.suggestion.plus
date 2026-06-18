@@ -3,68 +3,68 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/docs.suggestion.plus/',
-    component: ComponentCreator('/docs.suggestion.plus/', '81c'),
+    path: '/',
+    component: ComponentCreator('/', 'b40'),
     routes: [
       {
-        path: '/docs.suggestion.plus/',
-        component: ComponentCreator('/docs.suggestion.plus/', '0f9'),
+        path: '/',
+        component: ComponentCreator('/', '230'),
         routes: [
           {
-            path: '/docs.suggestion.plus/',
-            component: ComponentCreator('/docs.suggestion.plus/', 'ef6'),
+            path: '/',
+            component: ComponentCreator('/', '022'),
             routes: [
               {
-                path: '/docs.suggestion.plus/api-reference',
-                component: ComponentCreator('/docs.suggestion.plus/api-reference', '428'),
+                path: '/api-reference',
+                component: ComponentCreator('/api-reference', '693'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs.suggestion.plus/changelog',
-                component: ComponentCreator('/docs.suggestion.plus/changelog', '6d7'),
+                path: '/changelog',
+                component: ComponentCreator('/changelog', '51d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs.suggestion.plus/faq',
-                component: ComponentCreator('/docs.suggestion.plus/faq', 'e9a'),
+                path: '/faq',
+                component: ComponentCreator('/faq', 'cc1'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs.suggestion.plus/getting-started',
-                component: ComponentCreator('/docs.suggestion.plus/getting-started', '99a'),
+                path: '/getting-started',
+                component: ComponentCreator('/getting-started', '252'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs.suggestion.plus/premium-features',
-                component: ComponentCreator('/docs.suggestion.plus/premium-features', '961'),
+                path: '/premium-features',
+                component: ComponentCreator('/premium-features', '548'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs.suggestion.plus/privacy-policy',
-                component: ComponentCreator('/docs.suggestion.plus/privacy-policy', '65b'),
+                path: '/privacy-policy',
+                component: ComponentCreator('/privacy-policy', 'd63'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs.suggestion.plus/suggestion-plus-website-analysis',
-                component: ComponentCreator('/docs.suggestion.plus/suggestion-plus-website-analysis', '38a'),
+                path: '/suggestion-plus-website-analysis',
+                component: ComponentCreator('/suggestion-plus-website-analysis', 'c21'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs.suggestion.plus/terms-of-service',
-                component: ComponentCreator('/docs.suggestion.plus/terms-of-service', '21d'),
+                path: '/terms-of-service',
+                component: ComponentCreator('/terms-of-service', 'eb3'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs.suggestion.plus/',
-                component: ComponentCreator('/docs.suggestion.plus/', '73f'),
+                path: '/',
+                component: ComponentCreator('/', '84d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }

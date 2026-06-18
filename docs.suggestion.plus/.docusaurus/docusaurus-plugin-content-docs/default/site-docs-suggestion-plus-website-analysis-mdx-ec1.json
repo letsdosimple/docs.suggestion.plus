@@ -5,7 +5,7 @@
   "source": "@site/docs/suggestion-plus-website-analysis.mdx",
   "sourceDirName": ".",
   "slug": "/suggestion-plus-website-analysis",
-  "permalink": "/docs.suggestion.plus/suggestion-plus-website-analysis",
+  "permalink": "/suggestion-plus-website-analysis",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/letsdosimple/docs.suggestion.plus/tree/main/docs/suggestion-plus-website-analysis.mdx",
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Getting Started with Suggestion Plus",
-    "permalink": "/docs.suggestion.plus/getting-started"
+    "permalink": "/getting-started"
   },
   "next": {
     "title": "Premium Features",
-    "permalink": "/docs.suggestion.plus/premium-features"
+    "permalink": "/premium-features"
   }
 }

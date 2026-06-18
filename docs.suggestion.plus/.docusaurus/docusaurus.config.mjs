@@ -8,7 +8,7 @@ export default {
   "tagline": "Official Documentation for Suggestion Plus",
   "favicon": "img/logo.png",
   "url": "https://letsdosimple.github.io",
-  "baseUrl": "/docs.suggestion.plus/",
+  "baseUrl": "/",
   "organizationName": "letsdosimple",
   "projectName": "letsdosimple.github.io",
   "deploymentBranch": "main",

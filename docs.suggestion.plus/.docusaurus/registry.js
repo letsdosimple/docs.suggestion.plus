@@ -1,12 +1,12 @@
 export default {
   "17896441": [() => import(/* webpackChunkName: "17896441" */ "@theme/DocItem"), "@theme/DocItem", require.resolveWeak("@theme/DocItem")],
+  "22dd74f7": [() => import(/* webpackChunkName: "22dd74f7" */ "@generated/docusaurus-plugin-content-docs/default/p/index-466.json"), "@generated/docusaurus-plugin-content-docs/default/p/index-466.json", require.resolveWeak("@generated/docusaurus-plugin-content-docs/default/p/index-466.json")],
   "2b1e3bf1": [() => import(/* webpackChunkName: "2b1e3bf1" */ "@site/docs/terms-of-service.mdx"), "@site/docs/terms-of-service.mdx", require.resolveWeak("@site/docs/terms-of-service.mdx")],
   "3021cf83": [() => import(/* webpackChunkName: "3021cf83" */ "@site/docs/getting-started.mdx"), "@site/docs/getting-started.mdx", require.resolveWeak("@site/docs/getting-started.mdx")],
   "3bfa2deb": [() => import(/* webpackChunkName: "3bfa2deb" */ "@site/docs/premium-features.mdx"), "@site/docs/premium-features.mdx", require.resolveWeak("@site/docs/premium-features.mdx")],
   "4edc808e": [() => import(/* webpackChunkName: "4edc808e" */ "@site/docs/index.mdx"), "@site/docs/index.mdx", require.resolveWeak("@site/docs/index.mdx")],
   "5e95c892": [() => import(/* webpackChunkName: "5e95c892" */ "@theme/DocsRoot"), "@theme/DocsRoot", require.resolveWeak("@theme/DocsRoot")],
   "735d0569": [() => import(/* webpackChunkName: "735d0569" */ "@site/docs/changelog.mdx"), "@site/docs/changelog.mdx", require.resolveWeak("@site/docs/changelog.mdx")],
-  "755996b5": [() => import(/* webpackChunkName: "755996b5" */ "@generated/docusaurus-plugin-content-docs/default/p/docs-suggestion-plus-3d6.json"), "@generated/docusaurus-plugin-content-docs/default/p/docs-suggestion-plus-3d6.json", require.resolveWeak("@generated/docusaurus-plugin-content-docs/default/p/docs-suggestion-plus-3d6.json")],
   "77266aba": [() => import(/* webpackChunkName: "77266aba" */ "@site/docs/api-reference.mdx"), "@site/docs/api-reference.mdx", require.resolveWeak("@site/docs/api-reference.mdx")],
   "a7bd4aaa": [() => import(/* webpackChunkName: "a7bd4aaa" */ "@theme/DocVersionRoot"), "@theme/DocVersionRoot", require.resolveWeak("@theme/DocVersionRoot")],
   "a94703ab": [() => import(/* webpackChunkName: "a94703ab" */ "@theme/DocRoot"), "@theme/DocRoot", require.resolveWeak("@theme/DocRoot")],

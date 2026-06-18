@@ -5,7 +5,7 @@
   "source": "@site/docs/privacy-policy.mdx",
   "sourceDirName": ".",
   "slug": "/privacy-policy",
-  "permalink": "/docs.suggestion.plus/privacy-policy",
+  "permalink": "/privacy-policy",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/letsdosimple/docs.suggestion.plus/tree/main/docs/privacy-policy.mdx",
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Changelog",
-    "permalink": "/docs.suggestion.plus/changelog"
+    "permalink": "/changelog"
   },
   "next": {
     "title": "Terms of Service",
-    "permalink": "/docs.suggestion.plus/terms-of-service"
+    "permalink": "/terms-of-service"
   }
 }

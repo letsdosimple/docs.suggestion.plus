@@ -1,58 +1,58 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/docs.suggestion.plus/",
+      "path": "/",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/docs.suggestion.plus/",
+          "path": "/",
           "mainDocId": "index",
           "docs": [
             {
               "id": "api-reference",
-              "path": "/docs.suggestion.plus/api-reference",
+              "path": "/api-reference",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "changelog",
-              "path": "/docs.suggestion.plus/changelog",
+              "path": "/changelog",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "faq",
-              "path": "/docs.suggestion.plus/faq",
+              "path": "/faq",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "getting-started",
-              "path": "/docs.suggestion.plus/getting-started",
+              "path": "/getting-started",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "index",
-              "path": "/docs.suggestion.plus/",
+              "path": "/",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "premium-features",
-              "path": "/docs.suggestion.plus/premium-features",
+              "path": "/premium-features",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "privacy-policy",
-              "path": "/docs.suggestion.plus/privacy-policy",
+              "path": "/privacy-policy",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "suggestion-plus-website-analysis",
-              "path": "/docs.suggestion.plus/suggestion-plus-website-analysis",
+              "path": "/suggestion-plus-website-analysis",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "terms-of-service",
-              "path": "/docs.suggestion.plus/terms-of-service",
+              "path": "/terms-of-service",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -60,7 +60,7 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/docs.suggestion.plus/",
+                "path": "/",
                 "label": "index"
               }
             }

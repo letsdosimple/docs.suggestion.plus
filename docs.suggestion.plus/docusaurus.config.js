@@ -8,7 +8,7 @@ const config = {
   favicon: 'img/logo.png',
 
   url: 'https://letsdosimple.github.io',
-  baseUrl: '/docs.suggestion.plus/',
+  baseUrl: '/',
 
   organizationName: 'letsdosimple',
   projectName: 'letsdosimple.github.io',

@@ -5,7 +5,7 @@
   "source": "@site/docs/terms-of-service.mdx",
   "sourceDirName": ".",
   "slug": "/terms-of-service",
-  "permalink": "/docs.suggestion.plus/terms-of-service",
+  "permalink": "/terms-of-service",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/letsdosimple/docs.suggestion.plus/tree/main/docs/terms-of-service.mdx",
@@ -19,6 +19,6 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Privacy Policy",
-    "permalink": "/docs.suggestion.plus/privacy-policy"
+    "permalink": "/privacy-policy"
   }
 }
